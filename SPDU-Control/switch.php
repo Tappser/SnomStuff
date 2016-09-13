@@ -11,7 +11,7 @@ Call over HTTP: switch.php?outlet=#&state=# [State: on, off, restart]
 ------------------------------------------------------------------------------
 */
 
-$host = "192.168.1.4"; // APC Masterswitch IP
+$host = "192.168.1.3"; // APC Masterswitch IP
 $community = "private";
 $codeStatus =".1.3.6.1.4.1.318.1.1.4.4.2.1.3.";
 
